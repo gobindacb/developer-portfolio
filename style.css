@@ -39,3 +39,10 @@ section {
     background-image: url(images/index3.jpg);
     background-repeat: no-repeat;
 }
+
+.dream-big {
+    background-image: url(images/bcg22.png);
+    background-repeat: no-repeat;
+    background-position: right;
+
+}
